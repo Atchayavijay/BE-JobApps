@@ -1,0 +1,19 @@
+{
+  "name": "be-jobsapp",
+  "version": "1.0.0",
+  "description": "\"This is job portal application\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atchayavijay/BE-JobApps.git"
+  },
+  "author": "Atchaya Vijayakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atchayavijay/BE-JobApps/issues"
+  },
+  "homepage": "https://github.com/Atchayavijay/BE-JobApps#readme"
+}
